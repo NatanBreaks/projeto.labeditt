@@ -1,7 +1,5 @@
-POR FAVOR, EDITE ESSA MENSAGEM INSERINDO AS INFORMAÇÕES DO SEU PROJETO. COMECE APAGANDO ESSA LINHA.
 
-### INSIRA O NOME NOME DO PROJETO AQUI
-LabEddit
+### PROJETO LabEddit
 
 ### O que funciona
 - Tudo que foi pedido está Funcionando 
