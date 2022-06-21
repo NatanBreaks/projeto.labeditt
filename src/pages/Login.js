@@ -25,7 +25,6 @@ const MainContainer = styled.div `
 const Logo = styled.img `
     margin-top: 20%;
     width: 50vh;
-    margin-left : 5vh;
 `
 const Botoes = styled.button `
     width: 90vw;

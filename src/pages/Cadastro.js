@@ -25,7 +25,6 @@ const MainContainer = styled.div `
 const Logo = styled.img `
     margin-top: 20%;
     width: 50vh;
-    margin-left : 5vh;
 `
 const Botoes = styled.button `
     width: 90vw;
@@ -98,8 +97,7 @@ export default function Cadastro() {
                  />
             </div>
             <Termos>
-                <br/>
-                <p>Ao Continuar, voce concorda com o nosso Contrato de Usuario e nossa Politica de Privacidade</p>
+                <br/> <br/> <br/>  <br/>
                 <input type="checkbox" /> Gostaria de Receber Emails e Novidades
                 <br/>
                 <Botoes>
